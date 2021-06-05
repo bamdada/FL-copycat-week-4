@@ -1,2 +1,3 @@
 poll for devices
 build driver database
+translate analogue input
